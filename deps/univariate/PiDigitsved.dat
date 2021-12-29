@@ -1,0 +1,1630 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-66610693-3", {"cookieDomain":"auto"});ga("require", "linkid", "linkid.js");ga("set", "anonymizeIp", true);ga("set", "dimension2", "Information Technology Laboratory");ga("set", "dimension3", "341071");ga("set", "dimension7", "Laboratory\/Organizational Unit");ga("send", "pageview");ga('create', 'UA-33523145-1', 'auto', 'NISTGSA');
+ga('NISTGSA.send', 'pageview');</script>
+<link rel="canonical" href="https://www.nist.gov/itl" />
+<link rel="shortlink" href="https://www.nist.gov/node/341071" />
+<meta name="dcterms.title" content="Information Technology Laboratory" />
+<meta name="dcterms.creator" content="thelma.allen@nist.gov" />
+<meta name="dcterms.date" content="2015-04-28T15:15-04:00" />
+<meta name="dcterms.type" content="text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.nist.gov/itl" />
+<meta name="dcterms.modified" content="2021-10-21T11:56-04:00" />
+<meta property="og:site_name" content="NIST" />
+<meta property="og:type" content="Article" />
+<meta property="og:url" content="https://www.nist.gov/itl" />
+<meta property="og:title" content="Information Technology Laboratory" />
+<meta property="article:modified_time" content="2021-10-21T11:56:20-04:00" />
+<meta name="google-site-verification" content="QMu0ODkER3rN5hLcMLqNVf7e3bkjYsNLTuhqfH48jCA" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/custom/nist_www/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Information Technology Laboratory | NIST</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_F2gAVVlSdR3arDUpXp31o79SNgjcEodwd2bnXsnktzU.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_f_Di9hSpZypsIisTc2rYWAXk_eNBvu7HRw0iOI3ETCc.css" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_zbjDhj-AmeVwgu9y0DlPwEfp7l-a5BpoK3MpoGmRB6o.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_PV0KmreUx3hVeYI6yGypf71UDz9BSQl1Z5DjiESDh-Y.css" />
+<link rel="stylesheet" media="screen" href="/sites/default/files/css/css_eCFZbe-wDZfKfCmptutvHFfBSoXuDq4Su0rYQFQvnc8.css" />
+
+    <script src="https://script.crazyegg.com/pages/scripts/0039/8570.js" async></script>
+<script src="/sites/default/files/js/js_-dbYZ4JxrJ1JstYSHl6hMbgz-yFcPPqDY0VSXVJZCIo.js"></script>
+
+  </head>
+  <body class="node-341071">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+  <!-- nist-index-ignore-start -->
+<section class="usa-banner" aria-label="Official government website">
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img class="usa-banner__header-flag" src="/libraries/nist-component-library/dist/img/us_flag_small.png" alt="U.S. flag">
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto">
+          <p class="usa-banner__header-text">An official website of the United States government</p>
+          <p class="usa-banner__header-action" aria-hidden="true">Here’s how you know</p>
+        </div>
+        <button class="usa-accordion__button usa-banner__button" aria-expanded="false" aria-controls="gov-banner-default">
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div class="usa-banner__content usa-accordion__content" id="gov-banner-default">
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/libraries/nist-component-library/dist/img/icon-dot-gov.svg" role="img" alt="" aria-hidden="true">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong>
+              <br/>
+              A <strong>.gov</strong> website belongs to an official government organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img class="usa-banner__icon usa-media-block__img" src="/libraries/nist-component-library/dist/img/icon-https.svg" role="img" alt="" aria-hidden="true">
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong>
+              <br/>
+              A <strong>lock</strong> (  <span class="icon-lock">
+    <svg xmlns="http://www.w3.org/2000/svg" width="52" height="64" viewbox="0 0 52 64" class="usa-banner__lock-image" role="img" aria-labelledby="banner-lock-title banner-lock-description" focusable="false">
+      <title id="banner-lock-title">Lock</title>
+      <desc id="banner-lock-description">A locked padlock</desc><path fill="#000000" fill-rule="evenodd" d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"/></svg>
+  </span>
+) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- nist-index-ignore-end -->
+
+    
+    <!-- nist-index-ignore-start -->
+<div class="nist-print-header" style="display:none;">
+  <p class="nist-print-header__url">https://www.nist.gov/itl</p>
+  <img class="nist-print-header__logo" width="289" height="38" src="/libraries/nist-component-library/dist/img/logo/nist_logo_sidestack.svg" alt="National Institute of Standards and Technology" />
+</div>
+
+
+<div class="usa-overlay"></div>
+<header class="usa-header nist-header--www nist-header--minimal" role="banner">
+      <div class="usa-navbar">
+    <div class="usa-logo flex-fill">
+          <a href="/" title="National Institute of Standards and Technology" aria-label="Home">
+      <img src="/libraries/nist-component-library/dist/img/logo/logo.svg" alt="National Institute of Standards and Technology" />
+    </a>
+      </div>
+    <div class="usa-header__right grid-row flex-auto">
+                          <div class="grid-col-fill nist-header__search-group">
+                  
+<form class="usa-search usa-search--small" 
+  accept-charset="UTF-8"
+  action="https://www.nist.gov/fusion-search"
+  id="search_form"
+  method="get">
+  <div role="search">
+    <label class="usa-sr-only" for="search-form">Search NIST</label>
+    <input class="usa-input" id="search-form" type="search" name="s" placeholder="Search NIST" required="">
+    <button class="usa-button" type="submit"><span class="usa-sr-only">Search</span></button>
+  </div>
+</form>
+              </div>
+              <div class="grid-col-auto padding-left-1">
+          <button class="usa-menu-btn">Menu</button>
+        </div>
+          </div>
+  </div>
+
+      
+
+
+<nav aria-label="Primary navigation" class="usa-nav">
+  <div class="usa-nav__inner">
+    <button class="usa-nav__close">Close</button>
+    <ul class="usa-nav__primary usa-accordion">
+            <li class="usa-nav__primary-item">
+                <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-1"><span>Topics</span></button>
+        <div id="primary_menu-1" class="usa-nav__submenu usa-megamenu">
+          <div class="grid-row">
+                                                        <div class="tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/topics" class="usa-nav__link">All Topics</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/advanced-communications" class="usa-nav__link">Advanced communications</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/artificial-intelligence" class="usa-nav__link">Artificial intelligence</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/bioscience" class="usa-nav__link">Bioscience</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/buildings-construction" class="usa-nav__link">Buildings and construction</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/chemistry" class="usa-nav__link">Chemistry</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/climate" class="usa-nav__link">Climate</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/cybersecurity" class="usa-nav__link">Cybersecurity</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/electronics" class="usa-nav__link">Electronics</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/energy" class="usa-nav__link">Energy</a>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/environment" class="usa-nav__link">Environment</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/fire" class="usa-nav__link">Fire</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/forensic-science" class="usa-nav__link">Forensic science</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/health" class="usa-nav__link">Health</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/information-technology" class="usa-nav__link">Information technology</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/infrastructure" class="usa-nav__link">Infrastructure</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/manufacturing" class="usa-nav__link">Manufacturing</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/materials" class="usa-nav__link">Materials</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/mathematics-statistics" class="usa-nav__link">Mathematics and statistics</a>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/metrology" class="usa-nav__link">Metrology</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/nanotechnology" class="usa-nav__link">Nanotechnology</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/neutron-research" class="usa-nav__link">Neutron research</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/performance-excellence" class="usa-nav__link">Performance excellence</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/physics" class="usa-nav__link">Physics</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/public-safety" class="usa-nav__link">Public safety</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/resilience" class="usa-nav__link">Resilience</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/standards" class="usa-nav__link">Standards</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/transportation" class="usa-nav__link">Transportation</a>
+                              </li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+              </li>
+            <li class="usa-nav__primary-item">
+                <a class="usa-nav__link" href="/publications">Publications</a>
+              </li>
+            <li class="usa-nav__primary-item">
+                <button class="usa-accordion__button usa-nav__link usa-current" aria-expanded="false" aria-controls="primary_menu-3"><span>Labs &amp; Major Programs</span></button>
+        <div id="primary_menu-3" class="usa-nav__submenu usa-megamenu">
+          <div class="grid-row">
+                                                        <div class="tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/labs-major-programs/laboratories" class="usa-nav__link usa-current">Laboratories</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="/ctl" class="usa-nav__link">Communications Technology Laboratory</a>
+                  </li>
+                                  <li>
+                    <a href="/el" class="usa-nav__link">Engineering Laboratory</a>
+                  </li>
+                                  <li>
+                    <a href="/itl" class="usa-nav__link usa-current">Information Technology Laboratory</a>
+                  </li>
+                                  <li>
+                    <a href="/mml" class="usa-nav__link">Material Measurement Laboratory</a>
+                  </li>
+                                  <li>
+                    <a href="/pml" class="usa-nav__link">Physical Measurement Laboratory</a>
+                  </li>
+                                </ul>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/labs-major-programs/user-facilities" class="usa-nav__link">User Facilities</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="/ncnr" class="usa-nav__link">NIST Center for Neutron Research</a>
+                  </li>
+                                  <li>
+                    <a href="/cnst" class="usa-nav__link">CNST NanoFab</a>
+                  </li>
+                                </ul>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/labs-major-programs/research-test-beds" class="usa-nav__link">Research Test Beds</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/laboratories/projects-programs" class="usa-nav__link">Research Projects</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/laboratories/tools-instruments" class="usa-nav__link">Tools &amp; Instruments</a>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/labs-major-programs/major-programs" class="usa-nav__link">Major Programs</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="/baldrige" class="usa-nav__link">Baldrige Performance Excellence Program</a>
+                  </li>
+                                  <li>
+                    <a href="/mep" class="usa-nav__link">Manufacturing Extension Partnership (MEP)</a>
+                  </li>
+                                  <li>
+                    <a href="/oam" class="usa-nav__link">Office of Advanced Manufacturing</a>
+                  </li>
+                                  <li>
+                    <a href="/special-programs-office-spo" class="usa-nav__link">Special Programs Office</a>
+                  </li>
+                                  <li>
+                    <a href="/tpo" class="usa-nav__link">Technology Partnerships Office</a>
+                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+              </li>
+            <li class="usa-nav__primary-item">
+                <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-4"><span>Services &amp; Resources</span></button>
+        <div id="primary_menu-4" class="usa-nav__submenu usa-megamenu">
+          <div class="grid-row">
+                                                        <div class="tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/services-resources/standards-and-measurements" class="usa-nav__link">Standards and Measurements</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="/calibrations" class="usa-nav__link">Calibration Services</a>
+                  </li>
+                                  <li>
+                    <a href="/nvlap" class="usa-nav__link">Laboratory Accreditation (NVLAP)</a>
+                  </li>
+                                  <li>
+                    <a href="/nist-quality-system" class="usa-nav__link">Quality System</a>
+                  </li>
+                                  <li>
+                    <a href="/srm" class="usa-nav__link">Standard Reference Materials (SRMs)</a>
+                  </li>
+                                  <li>
+                    <a href="/standardsgov" class="usa-nav__link">Standards.gov</a>
+                  </li>
+                                  <li>
+                    <a href="/pml/time-and-frequency-division/time-services" class="usa-nav__link">Time Services</a>
+                  </li>
+                                  <li>
+                    <a href="/pml/weights-and-measures" class="usa-nav__link">Office of Weights and Measures</a>
+                  </li>
+                                </ul>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/services-resources/software" class="usa-nav__link">Software</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/data" class="usa-nav__link">Data</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="https://webbook.nist.gov/chemistry/" class="usa-nav__link">Chemistry WebBook</a>
+                  </li>
+                                  <li>
+                    <a href="https://nvd.nist.gov/" class="usa-nav__link">National Vulnerability Database</a>
+                  </li>
+                                  <li>
+                    <a href="/pml/productsservices/physical-reference-data" class="usa-nav__link">Physical Reference Data</a>
+                  </li>
+                                  <li>
+                    <a href="/srd" class="usa-nav__link">Standard Reference Data (SRD)</a>
+                  </li>
+                                </ul>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="https://www.nist.gov/shop" class="usa-nav__link">Storefront</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/tpo" class="usa-nav__link">License &amp; Patents</a>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="http://csrc.nist.gov/" class="usa-nav__link">Computer Security Resource Center (CSRC)</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/nist-research-library" class="usa-nav__link">NIST Research Library</a>
+                              </li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+              </li>
+            <li class="usa-nav__primary-item">
+                <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-5"><span>News &amp; Events</span></button>
+        <div id="primary_menu-5" class="usa-nav__submenu usa-megamenu">
+          <div class="grid-row">
+                                                        <div class="tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/news-events/news" class="usa-nav__link">News </a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/news-events/events" class="usa-nav__link">Events</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/video-gallery" class="usa-nav__link">Video Gallery</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/image-gallery" class="usa-nav__link">Image Gallery</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/feature-stories" class="usa-nav__link">Feature Stories</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/blogs" class="usa-nav__link">Blogs</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/director/pao/media-contacts" class="usa-nav__link">Media Contacts</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/si-redefinition" class="usa-nav__link">SI Redefinition</a>
+                              </li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+              </li>
+            <li class="usa-nav__primary-item">
+                <button class="usa-accordion__button usa-nav__link" aria-expanded="false" aria-controls="primary_menu-6"><span>About NIST</span></button>
+        <div id="primary_menu-6" class="usa-nav__submenu usa-megamenu">
+          <div class="grid-row">
+                                                        <div class="tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/about-nist" class="usa-nav__link">Learn About NIST</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/about-nist/contact-us" class="usa-nav__link">Contact Us</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/about-nist/visit" class="usa-nav__link">Visit</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/careers" class="usa-nav__link">Careers</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/about-nist/our-organization" class="usa-nav__link">Our Organization</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="/about-nist/our-organization/mission-vision-values" class="usa-nav__link">Mission, Vision &amp; Values</a>
+                  </li>
+                                  <li>
+                    <a href="/director/nist-organization-structure" class="usa-nav__link">Organization Structure</a>
+                  </li>
+                                  <li>
+                    <a href="/director" class="usa-nav__link">Office of the Director</a>
+                  </li>
+                                  <li>
+                    <a href="/about-nist/our-organization/locations" class="usa-nav__link">Locations</a>
+                  </li>
+                                  <li>
+                    <a href="/about-nist/our-organization/people" class="usa-nav__link">People</a>
+                  </li>
+                                  <li>
+                    <a href="/about-nist/our-organization/budget-planning" class="usa-nav__link">Budget &amp; Planning</a>
+                  </li>
+                                </ul>
+                              </li>
+                                                          </ul></div><div class="column-break tablet:grid-col-fill"><ul class="usa-nav__submenu-list">
+                            <li class="usa-nav__submenu-item">
+                <a href="/industry-impacts" class="usa-nav__link">Industry Impacts</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/awards" class="usa-nav__link">Awards</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/about-nist/work-nist" class="usa-nav__link">Work with NIST</a>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/history" class="usa-nav__link">History</a>
+                                <ul class="usa-nav__submenu-list">
+                                  <li>
+                    <a href="http://nistdigitalarchives.contentdm.oclc.org/" class="usa-nav__link">NIST Digital Archives</a>
+                  </li>
+                                  <li>
+                    <a href="/nist-museum" class="usa-nav__link">NIST Museum</a>
+                  </li>
+                                  <li>
+                    <a href="/nist-and-nobel" class="usa-nav__link">NIST and the Nobel</a>
+                  </li>
+                                </ul>
+                              </li>
+                                                        <li class="usa-nav__submenu-item">
+                <a href="/about-nist/policies-notices" class="usa-nav__link">Policies &amp; Notices</a>
+                              </li>
+                            </ul>
+            </div>
+          </div>
+        </div>
+              </li>
+          </ul>
+  </div>
+</nav>
+
+
+
+  
+</header>
+<!-- nist-index-ignore-end -->  
+  <div class="grid-container">
+    
+<div data-drupal-messages-fallback class="hidden"></div>
+
+
+  </div>
+
+
+
+    
+
+<div
+   id="block-nist-www-content" class="nist-block"
+>
+  
+    
+      
+
+
+
+
+
+
+
+        
+<section
+       class="nist-page__content usa-section clearfix"
+    >
+
+  <a id="main-content" tabindex="-1"></a>
+
+    <div class="nist-section-header  nist-section-header--menu">
+                        <div class="nist-section-header__main grid-container">
+                  <div class="grid-row">
+          <div class="nist-section-header__title">
+                  
+    <h1 class="nist-page__title">Information Technology Laboratory</h1>
+
+
+              </div>
+                  </div>
+              </div>
+  </div>
+
+      
+  <div class="grid-container margin-top-4">
+    <div class="grid-row grid-gap-6">
+
+                  <aside class="nist-page__region nist-page__region--sidebar-first tablet-lg:grid-col-4 desktop-lg:grid-col-3">
+        <div>
+          
+<div
+   class="nist-block"
+>
+  
+    
+      <!-- nist-index-ignore-start -->
+                    <div class="entity-reference">  <a href="/itl" hreflang="en"><img src="/sites/default/files/styles/medium/public/itl_logo_rgb.png?itok=obwD2EwW" width="220" height="97" alt="Information Technology Laboratory Logo" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            <!-- nist-index-ignore-end -->
+        
+  </div>
+<!-- nist-index-ignore-start -->
+<div
+   class="nist-block"
+>
+  
+    
+      
+
+  <nav>
+    <ul class="usa-sidenav usa-accordion ">
+          <li class="usa-sidenav__item usa-sidenav__item--parent">
+        <a href="/itl/about-itl" data-drupal-link-system-path="">About ITL</a>
+                            <button class="usa-accordion__button" aria-expanded="false" aria-controls="menu-information-technology-lab-1"><span class="usa-sr-only">Expand or Collapse</span></button>
+          <ul id="menu-information-technology-lab-1" class="usa-sidenav__sublist usa-accordion">
+                      <li class="usa-sidenav__item">
+              <a href="/itl/about-itl/itl-mission" data-drupal-link-system-path="">ITL Mission</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/about-itl/itl-purpose" data-drupal-link-system-path="">ITL Purpose</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/about-itl/itl-history-timeline" data-drupal-link-system-path="">ITL History Timeline</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/document/orgchartpdf" data-drupal-link-system-path="">Organizational Chart</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/document/itl-brochure-may-2015" data-drupal-link-system-path="">ITL Brochure </a>
+                          </li>
+                    </ul>
+              </li>
+          <li class="usa-sidenav__item usa-sidenav__item--parent">
+        <a href="/itl/how-work-us" data-drupal-link-system-path="">How to Work With Us</a>
+                            <button class="usa-accordion__button" aria-expanded="false" aria-controls="menu-information-technology-lab-2"><span class="usa-sr-only">Expand or Collapse</span></button>
+          <ul id="menu-information-technology-lab-2" class="usa-sidenav__sublist usa-accordion">
+                      <li class="usa-sidenav__item">
+              <a href="/itl/how-work-us/itl-opportunities" data-drupal-link-system-path="">ITL Opportunities</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/how-work-us/nrc-postdoctoral-research-fellowships-itl" data-drupal-link-system-path="">NRC Postdoctoral Research Fellowships in the ITL</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/how-work-us/itl-grants-program" data-drupal-link-system-path="">ITL Grants Program</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://www.nist.gov/ohrm/summer-high-school-intern-program" data-drupal-link-system-path="">NIST SHIP Program</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/how-work-us/itl-surf-program" data-drupal-link-system-path="">ITL SURF Program</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/how-work-us/pathways-program" data-drupal-link-system-path="">Pathways Program</a>
+                          </li>
+                    </ul>
+              </li>
+          <li class="usa-sidenav__item usa-sidenav__item--parent">
+        <a href="/itl/publications-0" data-drupal-link-system-path="">Publications</a>
+                            <button class="usa-accordion__button" aria-expanded="false" aria-controls="menu-information-technology-lab-3"><span class="usa-sr-only">Expand or Collapse</span></button>
+          <ul id="menu-information-technology-lab-3" class="usa-sidenav__sublist usa-accordion">
+                      <li class="usa-sidenav__item">
+              <a href="https://csrc.nist.gov" data-drupal-link-system-path="">Computer Security Resource Center</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/publications-0/itl-patent-policy-inclusion-patents-itl-publications" data-drupal-link-system-path="">ITL Patent Policy – Inclusion of Patents in ITL Publications</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/publications-0/federal-information-processing-standards-fips" data-drupal-link-system-path="">Federal Information Processing Standards (FIPS)</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/publications-0/nist-special-publication-800-series-general-information" data-drupal-link-system-path="">NIST Special Publication 800-series General Information</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/publications-0/nist-special-publication-1800-series-general-information" data-drupal-link-system-path="">NIST Special Publication 1800-series General Information</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://csrc.nist.gov/publications/itl-bulletin" data-drupal-link-system-path="">ITL Bulletins</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/publications-0/itl-newsletters" data-drupal-link-system-path="">ITL Newsletters</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/document/sp500list2005-presentgood-one-8pdf" data-drupal-link-system-path="">NIST Special Publication 500 Series</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://www.nist.gov/publications" data-drupal-link-system-path="">Searchable NIST Publication Database</a>
+                          </li>
+                    </ul>
+              </li>
+          <li class="usa-sidenav__item usa-sidenav__item--parent">
+        <a href="/itl/priority-areas" data-drupal-link-system-path="">Priority Areas</a>
+                            <button class="usa-accordion__button" aria-expanded="false" aria-controls="menu-information-technology-lab-4"><span class="usa-sr-only">Expand or Collapse</span></button>
+          <ul id="menu-information-technology-lab-4" class="usa-sidenav__sublist usa-accordion">
+                      <li class="usa-sidenav__item">
+              <a href="https://www.nist.gov//topics/artificial-intelligence" data-drupal-link-system-path="">Artificial Intelligence</a>
+                                              <button class="usa-accordion__button" aria-expanded="false" aria-controls="menu-information-technology-lab-4-1"><span class="usa-sr-only">Expand or Collapse</span></button>
+                <ul id="menu-information-technology-lab-4-1" class="usa-sidenav__sublist usa-accordion">
+                                  <li class="usa-sidenav__item">
+                    <a href="https://www.nist.gov/itl/fundamental-applied-research-and-standards-ai-technologies" data-drupal-link-system-path="">FARSAIT</a>
+                                      </li>
+                                </ul>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://www.nist.gov/topics/cybersecurity" data-drupal-link-system-path="">Cybersecurity</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://www.nist.gov/topics/internet-things-iot" data-drupal-link-system-path="">Internet of Things</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/priority-areas" data-drupal-link-system-path="">Future Computing Technologies and Applications</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/priority-areas" data-drupal-link-system-path="">Reliable Computing</a>
+                          </li>
+                    </ul>
+              </li>
+          <li class="usa-sidenav__item usa-sidenav__item--parent">
+        <a href="/itl/products-and-services" data-drupal-link-system-path="">Products and Services</a>
+                            <button class="usa-accordion__button" aria-expanded="false" aria-controls="menu-information-technology-lab-5"><span class="usa-sr-only">Expand or Collapse</span></button>
+          <ul id="menu-information-technology-lab-5" class="usa-sidenav__sublist usa-accordion">
+                      <li class="usa-sidenav__item">
+              <a href="/itl/iad/image-group/resources/biometric-special-databases-and-software" data-drupal-link-system-path="">Biometric Special Databases and Software</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/products-and-services/color-feret-database" data-drupal-link-system-path="">Color FERET Database</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://csrc.nist.gov/" data-drupal-link-system-path="">Computer Security Resource Center</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/cyberframework" data-drupal-link-system-path="">Cybersecurity Framework</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/products-and-services/emnist-dataset" data-drupal-link-system-path="">EMNIST Dataset</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/products-and-services/healthcare-standards-testing" data-drupal-link-system-path="">Healthcare - Standards &amp; Testing</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://dlmf.nist.gov/" data-drupal-link-system-path="">NIST Digital Library of Mathematical Functions</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="http://www.itl.nist.gov/div898/handbook/" data-drupal-link-system-path="">NIST/SEMATECH Engineering Statistics Handbook</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/applied-cybersecurity/nice" data-drupal-link-system-path="">National Initiative for Cybersecurity Education</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/ssd/software-quality-group/national-software-reference-library-nsrl/nsrl-download/current-rds" data-drupal-link-system-path="">National Software Reference Library&#039;s RDS</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="https://nvd.nist.gov/" data-drupal-link-system-path="">National Vulnerability Database</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/news-events/news/nist-tools-searching-coronavirus-dataset" data-drupal-link-system-path="">Tools for Searching the Coronavirus Dataset</a>
+                          </li>
+                      <li class="usa-sidenav__item">
+              <a href="/itl/voting" data-drupal-link-system-path="">Voting</a>
+                          </li>
+                    </ul>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="https://www.nist.gov/news-events/upcoming-events/org/5641" data-drupal-link-system-path="">Events</a>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="https://www.nist.gov/news-events/news-updates/org/5641" data-drupal-link-system-path="">News &amp; Updates</a>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="/industry-impacts" data-drupal-link-system-path="">NIST Industry Impacts</a>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="https://www.nist.gov/taking-measure-categories/information-technology" data-drupal-link-system-path="">Taking Measure Blogs on Information Technology</a>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="https://www.nist.gov/blogs/cybersecurity-insights" data-drupal-link-system-path="">Cybersecurity Insights Blog</a>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="/itl/standards-activities" data-drupal-link-system-path="">Standards Activities</a>
+              </li>
+          <li class="usa-sidenav__item">
+        <a href="https://www.nist.gov/video-category/information-technology" data-drupal-link-system-path="">Videos</a>
+              </li>
+        </ul>
+  </nav>
+
+
+        
+  </div>
+<!-- nist-index-ignore-end -->
+<!-- nist-index-ignore-start -->
+<div
+   class="views-element-container nist-block nist-block--org"
+>
+  
+  <h2
+       class="nist-block__title"
+      >Divisions</h2>
+      
+      <div><div class="js-view-dom-id-becad896be870430fe42b4b5e4fe33a3fac53344da6cf9c06d109aa74bb5a7f8">
+  
+  
+  
+
+  
+  
+  
+
+  <div class="link-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/antd" hreflang="en">Advanced Network Technologies Division</a></span></div></li>
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/math" hreflang="en">Applied and Computational Mathematics Division</a></span></div></li>
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/applied-cybersecurity" hreflang="en">Applied Cybersecurity Division</a></span></div></li>
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/csd" hreflang="en">Computer Security Division</a></span></div></li>
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/iad" hreflang="en">Information Access Division</a></span></div></li>
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/ssd" hreflang="en">Software and Systems Division</a></span></div></li>
+          <li><div class="views-field views-field-title-1"><span class="field-content"><a href="/itl/sed" hreflang="en">Statistical Engineering Division</a></span></div></li>
+    
+  </ul>
+
+</div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+        
+  </div>
+<!-- nist-index-ignore-end --><!-- nist-index-ignore-start -->
+<div
+   class="nist-block nist-social__wrapper--block"
+>
+  
+  <h2
+       class="nist-block__title"
+      >Connect with us</h2>
+      
+      
+
+<div><a href="https://service.govdelivery.com/accounts/USNIST/subscriber/topics" class="nist-social nist-social--envelope" title="GovDelivery" ><span>GovDelivery</span></a><a href="https://www.twitter.com/nistcyber" class="nist-social nist-social--twitter" title="Twitter" ><span>Twitter</span></a></div>
+        
+  </div>
+<!-- nist-index-ignore-end -->
+
+        </div>
+      </aside>
+            
+            
+            <div
+               class="nist-page__region nist-page__region--content tablet-lg:grid-col-8 desktop-lg:grid-col-9"
+            >
+        
+<div
+   class="nist-block"
+>
+  
+    
+        
+  <div class="paragraph paragraph--type--hero paragraph--view-mode--default">
+    
+  
+<div class="nist-hero grid-row grid-gap-2">
+                                
+  
+<div class="nist-hero__item tablet:grid-col-4 ">
+  <div class="nist-hero__item-inner">
+    <div class="nist-hero__image">
+      <a href="/news-events/news/2021/10/nist-draft-publication-addresses-removing-barriers-voters-disabilities">
+        
+      <picture>
+                  <source srcset="/sites/default/files/styles/600w_x_360h/public/images/2021/09/20/21ITL020_pwd_vote-final.png?itok=WKTBPj7B 1x, /sites/default/files/styles/1200w_x_720h/public/images/2021/09/20/21ITL020_pwd_vote-final.png?itok=4_oFo6O7 2x" media="(min-width: 480px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/300w_x_180h/public/images/2021/09/20/21ITL020_pwd_vote-final.png?itok=7cMAvSs1 1x, /sites/default/files/styles/600w_x_360h/public/images/2021/09/20/21ITL020_pwd_vote-final.png?itok=WKTBPj7B 2x" media="(min-width: 0px)" type="image/png"/>
+                  <img src="/sites/default/files/styles/600w_x_360h/public/images/2021/09/20/21ITL020_pwd_vote-final.png?itok=WKTBPj7B" alt="A drawing shows four people with various disabilities gathered together.  " typeof="foaf:Image" />
+
+  </picture>
+
+
+
+
+      </a>
+    </div>
+    <div class="nist-hero__caption">
+      <a href="/news-events/news/2021/10/nist-draft-publication-addresses-removing-barriers-voters-disabilities">
+                            <div class="text">NIST Draft Publication Addresses Removing Barriers for Voters With Disabilities</div>
+            
+      </a>
+    </div>
+  </div>
+</div>
+
+                                
+  
+<div class="nist-hero__item tablet:grid-col-4 ">
+  <div class="nist-hero__item-inner">
+    <div class="nist-hero__image">
+      <a href="/news-events/news/2021/09/new-online-tool-improve-stakeholder-engagement-sp-800-53">
+        
+      <picture>
+                  <source srcset="/sites/default/files/styles/600w_x_360h/public/images/2021/09/30/800-53-comment-page.png?itok=HWD_FWQL 1x, /sites/default/files/styles/1200w_x_720h/public/images/2021/09/30/800-53-comment-page.png?itok=nT20jSqj 2x" media="(min-width: 480px)" type="image/png"/>
+              <source srcset="/sites/default/files/styles/300w_x_180h/public/images/2021/09/30/800-53-comment-page.png?itok=THFbvHTO 1x, /sites/default/files/styles/600w_x_360h/public/images/2021/09/30/800-53-comment-page.png?itok=HWD_FWQL 2x" media="(min-width: 0px)" type="image/png"/>
+                  <img src="/sites/default/files/styles/600w_x_360h/public/images/2021/09/30/800-53-comment-page.png?itok=HWD_FWQL" alt="800-53 Comment Page Image" typeof="foaf:Image" />
+
+  </picture>
+
+
+
+
+      </a>
+    </div>
+    <div class="nist-hero__caption">
+      <a href="/news-events/news/2021/09/new-online-tool-improve-stakeholder-engagement-sp-800-53">
+                            <div class="text">New Online Tool to Improve Stakeholder Engagement with SP 800-53</div>
+            
+      </a>
+    </div>
+  </div>
+</div>
+
+                                
+  
+<div class="nist-hero__item tablet:grid-col-4 ">
+  <div class="nist-hero__item-inner">
+    <div class="nist-hero__image">
+      <a href="/blogs/taking-measure/cybersecurity-labeling-consumer-iot-devices-qa-nists-katerina-megas">
+        
+      <picture>
+                  <source srcset="/sites/default/files/styles/600w_x_360h/public/images/2021/10/19/Gorodenkoff_IOT_SS_1817816846.jpg?itok=9cWvWd7X 1x, /sites/default/files/styles/1200w_x_720h/public/images/2021/10/19/Gorodenkoff_IOT_SS_1817816846.jpg?itok=tQNoMOoh 2x" media="(min-width: 480px)" type="image/jpeg"/>
+              <source srcset="/sites/default/files/styles/300w_x_180h/public/images/2021/10/19/Gorodenkoff_IOT_SS_1817816846.jpg?itok=v3AGrrp9 1x, /sites/default/files/styles/600w_x_360h/public/images/2021/10/19/Gorodenkoff_IOT_SS_1817816846.jpg?itok=9cWvWd7X 2x" media="(min-width: 0px)" type="image/jpeg"/>
+                  <img src="/sites/default/files/styles/600w_x_360h/public/images/2021/10/19/Gorodenkoff_IOT_SS_1817816846.jpg?itok=9cWvWd7X" alt="a kitchen with a voice activated assistant on the counter, graphics indicate that it is connected wirelessly to the stove, the toaster, the blender and so on. " typeof="foaf:Image" />
+
+  </picture>
+
+
+
+
+      </a>
+    </div>
+    <div class="nist-hero__caption">
+      <a href="/blogs/taking-measure/cybersecurity-labeling-consumer-iot-devices-qa-nists-katerina-megas">
+                            <div class="text">Blog: Consumer Cybersecurity Labeling for IoT Devices: A Q&amp;A with NIST’s Katerina Megas</div>
+            
+      </a>
+    </div>
+  </div>
+</div>
+
+                  </div>
+
+  </div>
+
+  
+  <div class="nist-content-row nist-content-row--width-legible paragraph paragraph--type--text paragraph--view-mode--default">
+          <div class="nist-block text-long"><h2 class="nist-block__title">WELCOME TO THE INFORMATION TECHNOLOGY LABORATORY</h2>
+
+<div class="nist-callout">
+<h2 class="text-align-center">ITL’s Purpose | Cultivating Trust in IT and Metrology</h2>
+</div>
+
+<p>The Information Technology Laboratory (ITL), one of six research laboratories within the National Institute of Standards and Technology (NIST), is a globally recognized and trusted source of high-quality, independent, and unbiased research and data. ITL’s mission, to cultivate trust in information technology (IT) and metrology, is accomplished using its world-class measurement and testing facilities and encompassing a wide range of areas of computer science, mathematics, statistics, and systems engineering.</p>
+
+<p>This non-regulatory role, along with ITL’s deep technical expertise in all fields of information technology, helps increase trust in IT worldwide.  </p>
+
+<div class="grid-row grid-gap">
+<div class="grid-col">
+<h2 class="nist-block__title"><a href="https://www.nist.gov/itl/itl-publications/itl-newsletters">ITL Newsletters</a></h2>
+
+<p>Published bimonthly, the ITL Newsletter features news articles on ITL's programs, projects, activities, and accomplishments. It announces selected new ITL publications and describes upcoming technical conferences and workshops. </p>
+
+<p><strong><a href="https://public.govdelivery.com/accounts/USNIST/subscriber/new?qsp=USNIST_3">Sign up for ITL Newsletters</a>!</strong></p>
+</div>
+
+<div class="grid-col">
+<h2 class="nist-block__title"><strong><a href="https://csrc.nist.gov/publications/itl-bulletin">ITL BULLETINS</a></strong></h2>
+
+<p>Published monthly, the ITL Bulletin focuses on ITL’s research and collaborative activities in cybersecurity. It often announces new ITL publications in information security and gives an overview of the research contained within.</p>
+
+<p><strong><a href="https://public.govdelivery.com/accounts/USNIST/subscriber/new?qsp=USNIST_3">Sign up for ITL Bulletins</a>!</strong></p>
+</div>
+</div></div>
+
+      </div>
+
+  
+  
+  <div class="paragraph paragraph--type--dynamic-content-list-ou paragraph--view-mode--default">
+          <div
+  class="nist-block "
+>
+  
+  <h2
+       class="nist-block__title"
+      >                    <div class="string">News and Updates</div>
+            </h2>
+      
+                          <div class="viewsreference"><div class="views-element-container"><div class="js-view-dom-id-be94a3ced69fd25006dc68803b48ab6677d5408a746163f9b1e6b0fc87a186c2">
+  
+  
+  
+
+  
+  
+  
+
+    <div>
+<article
+       role="article" about="/news-events/news/2021/12/ieee-approves-cloud-computing-standard-aided-nist" typeof="schema:Article" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/news-events/news/2021/12/ieee-approves-cloud-computing-standard-aided-nist" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2021/12/20/cloud.federation.pane_.of_.glass_.png?itok=LNha3Gnf" width="100" height="54" alt="A user creates their own federation from different clouds and organizations" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/news-events/news/2021/12/ieee-approves-cloud-computing-standard-aided-nist"><span property="schema:name">IEEE Approves Cloud Computing Standard, Aided by NIST</span>
+</a></h3>
+                        <div class="nist-teaser__date">
+                            <div class="daterange"><time datetime="2021-12-21T12:00:00Z">December 21, 2021</time>
+</div>
+            
+      </div>
+                  
+    </header>
+    <div class="nist-teaser__content">
+                          <div property="schema:text" class="text-with-summary">On December 8, 2021, the IEEE Standards Association Standards Board approved the IEEE 2302-2021 Standard for Intercloud Interoperability and Federation produced</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+<article
+       role="article" about="/news-events/news/2021/12/sneezes-rain-clouds-and-ink-jets-nist-improves-ability-optical-microscopes" typeof="schema:Article" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/news-events/news/2021/12/sneezes-rain-clouds-and-ink-jets-nist-improves-ability-optical-microscopes" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2021/12/20/microdroplets_final%20copy.jpg?itok=Xr_JnIbm" width="78" height="100" alt="microdroplets illustration" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/news-events/news/2021/12/sneezes-rain-clouds-and-ink-jets-nist-improves-ability-optical-microscopes"><span property="schema:name">Sneezes, Rain Clouds and Ink Jets: NIST Improves the Ability of Optical Microscopes to Measure the Volume of Microdroplets</span>
+</a></h3>
+                        <div class="nist-teaser__date">
+                            <div class="daterange"><time datetime="2021-12-20T12:00:00Z">December 20, 2021</time>
+</div>
+            
+      </div>
+                  
+    </header>
+    <div class="nist-teaser__content">
+                          <div property="schema:text" class="text-with-summary">Sneezes, rain clouds, and ink jet printers: They all produce or contain liquid droplets so tiny it would take several billion of them to fill a liter bottle</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+<article
+       role="article" about="/news-events/news/2021/12/nist-seeks-comments-concept-paper-ai-risk-management-framework" typeof="schema:Article" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/news-events/news/2021/12/nist-seeks-comments-concept-paper-ai-risk-management-framework" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2021/12/14/ai-report.jpg?itok=VzlkMpWr" width="100" height="100" alt="Outline of head with circuit board pattern in background. White document icon on top of the head" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/news-events/news/2021/12/nist-seeks-comments-concept-paper-ai-risk-management-framework"><span property="schema:name">NIST Seeks Comments on Concept Paper for AI Risk Management Framework </span>
+</a></h3>
+                        <div class="nist-teaser__date">
+                            <div class="daterange"><time datetime="2021-12-14T12:00:00Z">December 14, 2021</time>
+</div>
+            
+      </div>
+                  
+    </header>
+    <div class="nist-teaser__content">
+                          <div property="schema:text" class="text-with-summary">NIST has developed for public review a concept paper for the Artificial Intelligence Risk Management Framework (AI RMF). The paper incorporates input from a</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+<article
+       role="article" about="/news-events/news/2021/12/nccoe-releases-draft-project-description-ipv6-transition" typeof="schema:Article" class="nist-teaser"
+    >
+      <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/news-events/news/2021/12/nccoe-releases-draft-project-description-ipv6-transition"><span property="schema:name">NCCoE Releases Draft Project Description for IPv6 Transition</span>
+</a></h3>
+                        <div class="nist-teaser__date">
+                            <div class="daterange"><time datetime="2021-12-09T12:00:00Z">December 9, 2021</time>
+</div>
+            
+      </div>
+                  
+    </header>
+    <div class="nist-teaser__content">
+                          <div property="schema:text" class="text-with-summary">The National Cybersecurity Center of Excellence (NCCoE) has released a new draft project description, Secure IPv6-Only Implementation in the Enterprise</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+
+    
+
+  
+  
+
+      <footer>
+      <div class="link-list"><a href="/news-events/news-updates/org/5641">View All News and Updates</a></div>
+    </footer>
+  
+  
+</div>
+</div>
+</div>
+            
+        
+  </div>
+
+      </div>
+
+  
+  
+  <div class="paragraph paragraph--type--dynamic-content-list-ou paragraph--view-mode--default">
+          <div
+  class="nist-block "
+>
+  
+  <h2
+       class="nist-block__title"
+      >                    <div class="string">Events</div>
+            </h2>
+      
+                          <div class="viewsreference"><div class="views-element-container"><div class="js-view-dom-id-4290c124f33d09b5d1e95eb770d4d18db39401d011f298c7170733183963f9ce">
+  
+  
+  
+
+  
+  
+  
+
+    <div>
+<article
+       role="article" about="/news-events/events/2022/05/lightweight-cryptography-workshop-2022" class="nist-teaser"
+    >
+      <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/news-events/events/2022/05/lightweight-cryptography-workshop-2022"><span>Lightweight Cryptography Workshop 2022</span>
+</a></h3>
+                        <div class="nist-teaser__date">
+                            <div class="smartdate">Mon, May 9 2022, 11:00am - Wed, May 11 2022, 3:00pm EDT</div>
+            
+      </div>
+                  
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-with-summary">NIST will host the Fifth Lightweight Cryptography Workshop (virtual) on May 9-11, 2022, to discuss various aspects of</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+
+    
+
+  
+  
+
+      <footer>
+      <div class="link-list"><a href="/news-events/upcoming-events/org/5641">View All Events</a></div>
+    </footer>
+  
+  
+</div>
+</div>
+</div>
+            
+        
+  </div>
+
+      </div>
+
+  
+  
+  <div class="paragraph paragraph--type--dynamic-content-list-ou paragraph--view-mode--default">
+          <div
+  class="nist-block "
+>
+  
+  <h2
+       class="nist-block__title"
+      >                    <div class="string">Industry Impacts</div>
+            </h2>
+      
+                          <div class="viewsreference"><div class="views-element-container"><div class="js-view-dom-id-33b25c2103bd5c126c4089d13670208506104d55531b61bfa522c201409188e0">
+  
+  
+  
+
+  
+  
+  
+
+    <div>
+
+<article
+       role="article" about="/industry-impacts/biometric-standards-law-enforcement" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/industry-impacts/biometric-standards-law-enforcement" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2018/08/30/shutterstock_596756885-comp-security-notebook-keyboard-copyright-jmiks.jpg?itok=0Ca_pCyy" width="100" height="66" alt="blurry keyboard with a clear fingerprint on one of the keys" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/industry-impacts/biometric-standards-law-enforcement"><span>Biometric Standards for Law Enforcement</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-with-summary">Border security, crime investigations, background checks and access control all rely on certain organizations being able to seamlessly exchange biometric data</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+
+<article
+       role="article" about="/industry-impacts/software-usability" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/industry-impacts/software-usability" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2018/08/17/shutterstock_252413188.jpg?itok=WeUf5ZQ-" width="100" height="70" alt="blue background with white letters and numbers denoting coding" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/industry-impacts/software-usability"><span>Software Usability</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-with-summary">Companies in every industry need software that their employees and customers can easily learn to use without error, but for years there was no way for them to</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+
+<article
+       role="article" about="/industry-impacts/wireless-infusion-pump-security" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/industry-impacts/wireless-infusion-pump-security" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2018/08/17/20161123_115913.jpg?itok=FJZncV0v" width="100" height="56" alt="One person sits in front of a wireless infusion pump. Two people stand and look over his shoulder. Other pumps are in the background." loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/industry-impacts/wireless-infusion-pump-security"><span>Wireless Infusion Pump Security</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-with-summary">Infusion pumps were once standalone instruments that interacted only with the patient or medical provider. With technological improvements designed to enhance</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+
+<article
+       role="article" about="/industry-impacts/ultimate-reference-mathematical-modeling" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/industry-impacts/ultimate-reference-mathematical-modeling" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2019/03/11/hankel_function_digital_library_of_mathematical_functions.jpg?itok=efdilhkW" width="100" height="72" alt="Visual representation of a Hankel function for complex variables" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/industry-impacts/ultimate-reference-mathematical-modeling"><span>Ultimate Reference for Mathematical Modeling</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-with-summary">Mathematical modeling provides information that is difficult to obtain from experimentation alone and can, therefore, save scientists and engineers time and</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+
+    
+
+  
+  
+
+      <footer>
+      <div class="link-list"><a href="/industry-impacts">View All NIST Industry Impacts</a></div>
+    </footer>
+  
+  
+</div>
+</div>
+</div>
+            
+        
+  </div>
+
+      </div>
+
+  
+
+  
+
+  
+  
+  <div class="paragraph paragraph--type--dynamic-content-list-ou paragraph--view-mode--default">
+          <div
+  class="nist-block "
+>
+  
+  <h2
+       class="nist-block__title"
+      >                    <div class="string">Awards</div>
+            </h2>
+      
+                          <div class="viewsreference"><div class="views-element-container"><div class="js-view-dom-id-970158659dc9bd0153611ec7345d33daa74cc135c93a38cba3cea40aa521c78c">
+  
+  
+  
+
+  
+  
+  
+
+    <div>
+
+<article
+       role="article" about="/about-us/nist-awards/physics-world-2021-breakthrough-year" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/about-us/nist-awards/physics-world-2021-breakthrough-year" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2021/04/27/21PML003_NIST_entanglement2.png?itok=xFHLgHeC" width="100" height="69" alt="Gray ovals on blue background are linked to curved gray lines. " loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/about-us/nist-awards/physics-world-2021-breakthrough-year"><span>Physics World 2021 Breakthrough of the Year</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-long">The Physics World 2021 Breakthrough of the Year goes to two independent teams for entangling two macroscopic vibrating drumheads, thereby</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+
+<article
+       role="article" about="/about-us/nist-awards/nist-paper-selected-2021-usra-q2b-applied-nisq-computing-paper-award-2021" class="nist-teaser"
+    >
+      <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/about-us/nist-awards/nist-paper-selected-2021-usra-q2b-applied-nisq-computing-paper-award-2021"><span>NIST Paper Selected for 2021 USRA Q2B Applied NISQ Computing Paper Award for 2021</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-long">A research paper whose lead author is Lucas Brady of NIST/ACMD (and a postdoctoral researcher at the NIST/UMD Joint Center for Quantum</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+
+<article
+       role="article" about="/about-us/nist-awards/ron-ross-receive-2021-retired-general-michael-v-hayden-lifetime-leadership" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/about-us/nist-awards/ron-ross-receive-2021-retired-general-michael-v-hayden-lifetime-leadership" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/annual_award/presidentialrank-rossron0_1.jpg?itok=YkO16bYc" width="83" height="100" alt="Ross" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/about-us/nist-awards/ron-ross-receive-2021-retired-general-michael-v-hayden-lifetime-leadership"><span>Ron Ross to Receive 2021 Retired General Michael V. Hayden Lifetime Leadership Award</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-long">For distinguished contributions to the advancement and strength of the US federal cybersecurity community.</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+  <div>
+
+<article
+       role="article" about="/about-us/nist-awards/tony-kearsley-2021-winner-excellence-research-applied-mathematics-award" class="nist-teaser"
+    >
+        <div class="nist-teaser__image">
+                                        <div class="entity-reference">  <a href="/about-us/nist-awards/tony-kearsley-2021-winner-excellence-research-applied-mathematics-award" hreflang="en"><img src="/sites/default/files/styles/thumbnail/public/images/2021/08/10/Kearsley-2.jpg?itok=Njj7axvK" width="73" height="100" alt="Image of Tony Kearsley" loading="lazy" typeof="foaf:Image" />
+
+</a>
+</div>
+            
+          </div>
+    <div class="nist-teaser__content-wrapper">
+    <header>
+              <h3 class="nist-teaser__title"><a href="/about-us/nist-awards/tony-kearsley-2021-winner-excellence-research-applied-mathematics-award"><span>Tony Kearsley 2021 Winner of the Excellence in Research in Applied Mathematics Award</span>
+</a></h3>
+                              
+    </header>
+    <div class="nist-teaser__content">
+                          <div class="text-long">For outstanding contributions in the application of mathematics with impact in a broad range of fields, including physics, chemistry</div>
+            
+    </div>
+  </div>
+</article>
+</div>
+
+    
+
+  
+  
+
+      <footer>
+      <div class="link-list"><a href="/awards/org/5641">View All Awards</a></div>
+    </footer>
+  
+  
+</div>
+</div>
+</div>
+            
+        
+  </div>
+
+      </div>
+
+
+        
+  </div>
+
+      </div>
+      
+      
+    </div>
+  </div>
+
+        
+  
+    <div class="grid-container">
+
+          <div
+               class="nist-page__region nist-page__region--content-bottom"
+            >
+        
+<div
+   class="nist-block nist-block--contact"
+>
+  
+  <h2
+       class="nist-block__title"
+      >Contacts</h2>
+      
+        
+
+<div class="nist-contact">
+        <ul class="nist-contact__items">
+      
+      <li class="nist-contact__item">
+        <div class="nist-contact__name">
+    General Information
+  </div>
+  <div>
+    <a href="mailto:itl_inquiries@nist.gov">itl_inquiries@nist.gov</a>
+  </div>
+  <div>
+    (301) 975-2900
+  </div>
+  <div>
+    
+  </div>
+
+  </li>
+
+    </ul>
+  </div>
+
+
+        
+  </div>
+
+      </div>
+    
+  </div>
+  
+</section>
+
+
+        
+  </div>
+
+
+  
+    <!-- nist-index-ignore-start -->
+
+<footer class="nist-footer padding-bottom-4">
+
+  
+    <div class="grid-container nist-footer__info">
+      <div class="grid-row">
+        <div class="tablet:grid-col-6">
+          <div class="nist-footer__logo">
+            <a href="/" title="National Institute of Standards and Technology" rel="home">
+              <img class="nist-footer__logo-img" src="/libraries/nist-component-library/dist/img/logo/nist_logo_sidestack_rev.svg" alt="National Institute of Standards and Technology logo">
+            </a>
+          </div>
+          <div class="nist-footer__contact">
+            <h3 class="nist-footer__contact-heading">HEADQUARTERS</h3>
+            <address>
+              100 Bureau Drive<br>
+              Gaithersburg, MD 20899<br>
+              <a href="tel:301-975-2000">301-975-2000</a>
+            </address>
+            <p>
+              <a href="mailto:do-webmaster@nist.gov">Webmaster</a> | <a href="https://www.nist.gov/about-nist/contact-us">Contact Us</a> | <a href="https://www.nist.gov/about-nist/our-organization">Our Other Offices</a>
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="nist-footer__social-links">
+            
+<a class="nist-social nist-social--twitter-white" href=" https://twitter.com/NIST">
+  <span>Twitter</span>
+</a>
+            
+<a class="nist-social nist-social--facebook-white" href=" https://www.facebook.com/NIST">
+  <span>Facebook</span>
+</a>
+            
+<a class="nist-social nist-social--linkedin-white" href=" https://www.linkedin.com/company/nist">
+  <span>LinkedIn</span>
+</a>
+            
+<a class="nist-social nist-social--instagram-white" href=" https://www.instagram.com/nist/">
+  <span>Instagram</span>
+</a>
+            
+<a class="nist-social nist-social--youtube-white" href=" https://www.youtube.com/NIST">
+  <span>YouTube</span>
+</a>
+            
+<a class="nist-social nist-social--rss-white" href=" https://www.nist.gov/news-events/nist-rss-feeds">
+  <span>RSS Feed</span>
+</a>
+            
+<a class="nist-social nist-social--envelope-white" href=" https://service.govdelivery.com/accounts/USNIST/subscriber/new">
+  <span>Mailing List</span>
+</a>
+          </div>
+                              <div class="nist-footer__feedback">
+            How are we doing? <a class="usa-button" rel="nofollow" href="/form/nist-gov-feedback?destination=/itl" title="Provide feedback">Feedback</a>
+          </div>
+                  </div>
+      </div>
+    </div>
+
+  
+  <div class="grid-container">
+    <div class="nist-footer__nav" role="navigation">
+      <ul>
+                              <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/privacy-policy">Site Privacy</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/oism/accessibility">Accessibility</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/privacy">Privacy Program</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/oism/copyrights">Copyrights</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.commerce.gov/vulnerability-disclosure-policy">Vulnerability Disclosure</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/no-fear-act-policy">No Fear Act Policy</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/office-director/freedom-information-act">FOIA</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/environmental-policy-statement">Environmental Policy</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/summary-report-scientific-integrity">Scientific Integrity</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.nist.gov/nist-information-quality-standards">Information Quality Standards</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://www.commerce.gov/">Commerce.gov</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="http://www.science.gov/">Science.gov</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="http://www.usa.gov/">USA.gov</a>
+            </li>
+                      <li class="nist-footer__menu-item">
+              <a href="https://vote.gov/">Vote.gov</a>
+            </li>
+                        </ul>
+    </div>
+  </div>
+
+    
+</footer>
+<!-- nist-index-ignore-end -->
+  
+  </div>
+
+    
+    
+  <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/341071","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"back_to_top":{"back_to_top_button_trigger":"100","back_to_top_prevent_on_mobile":0,"back_to_top_prevent_in_admin":1,"back_to_top_button_type":"image","back_to_top_button_text":"Back to top"},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|bsh|c|csv|doc(x|m)?|dot(x|m)?|dw(fx|g|gd)|dxf|eps|epub|exe|f(90)|flv|gif|gz|gzip|hqx|jar|jpe?g|js|m1v|mp(2|3|4|e?g)|mobi|mov(ie)?|msi|msp|pdf|phps|pl|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|rfa|rtf|rvt|sch|sea|sit|swf|tar|tgz|tif|txt|txz|wav|wma|wmv|wpd|wrl|xls(x|m|b)?|xlt(x|m)|xlam|xml|xsd|z|zip","trackDomainMode":1},"data":{"extlink":{"extTarget":false,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":true,"extExclude":"\\.gov\\\/|doi\\.org\\\/|\\.mil\\\/","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":true,"extAlertText":"Thank you for visiting NIST. We hope your visit was informative. We have provided a link to this site because it has information that may be of interest to our users. NIST does not necessarily endorse the views expressed or the facts presented on this site. Further, NIST does not endorse any commercial products that may be advertised or available on this site. Click OK to be directed to your link.","mailtoClass":"mailto","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":[]}},"user":{"uid":0,"permissionsHash":"520687c07b4be4858e6c6ce3a624b46210584185ff52f288415ad535b343bd9c"}}</script>
+<script src="/sites/default/files/js/js_HKd7gv-bbmRelGC4d4WeNZzQbKyLqdNueuUrR0FmOwk.js"></script>
+</body>
+</html>
