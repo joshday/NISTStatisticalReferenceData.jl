@@ -51,8 +51,8 @@ Test Case
         2    Parameters        : mu, sigma
         1    Response Variable : y
         0    Predictor Variables
-    Data (CSV): 
-        219 Lines
+    Data: 
+        219×1 DataFrame
     Certified Values:
         UnivariateStats: m=518.95871559633, s=291.699727470969, a=-0.120948622967393, n=218 | exact=false
 ```
