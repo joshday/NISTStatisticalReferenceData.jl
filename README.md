@@ -28,7 +28,7 @@ OrderedCollections.OrderedDict{String, Vector{String}} with 5 entries:
   "mcmc"       => ["mcmc01", "mcmc02", "mcmc03", "mcmc04", "mcmc05", "mcmc06"]
   "nonlinear"  => ["Bennett5", "BoxBOD", "Chwirut1", "Chwirut2", "DanWood", "ENSO", "Eckerle4", "Gauss1", "Gauss2", "Gauss3",  …] 
   "regression" => ["Filip", "Longley", "NoInt1", "NoInt2", "Norris", "Pontius", "Wampler1", "Wampler2", "Wampler3", "Wampler4", "Wampler5"]
-  "univariate" => ["Lew", "Lottery", "Mavro", "Michelsoved", "NumAcc1", "NumAcc2", "NumAcc3", "NumAcc4", "PiDigitsved"]
+  "univariate" => ["Lew", "Lottery", "Mavro", "Michelso", "NumAcc1", "NumAcc2", "NumAcc3", "NumAcc4", "PiDigits"]
 ```
 
 ## Loading data
