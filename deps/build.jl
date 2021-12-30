@@ -20,7 +20,7 @@ nls = ["Misra1a", "Chwirut2", "Chwirut1", "Lanczos3", "Gauss1", "Gauss2", "DanWo
         "Misra1c", "Misra1d", "Roszman1", "ENSO", "MGH09", "Thurber", "BoxBOD", "Rat42", "MGH10", 
         "Eckerle4", "Rat43", "Bennett5"]
 
-univ = ["PiDigitsved", "Lottery", "Lew", "Mavro", "Michelsoved", "NumAcc1", "NumAcc2", 
+univ = ["PiDigits", "Lottery", "Lew", "Mavro", "Michelso", "NumAcc1", "NumAcc2", 
         "NumAcc3", "NumAcc4"]
 
 

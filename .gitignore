@@ -1,7 +1,3 @@
 /Manifest.toml
-deps/anova
-deps/lls
-deps/mcmc
-deps/nls
-deps/univ
+*.dat
 *.log
