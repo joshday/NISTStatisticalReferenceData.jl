@@ -27,7 +27,7 @@ struct TestCase
     reference::String 
     data_description::String 
     model::String
-    data::String
+    data::DataFrame
     certified_values::Vector
 end
 function TestCase(name::String)
@@ -88,7 +88,8 @@ end
 
 function get_data(lines)
     # Convert from fixed width to CSV
-    replace(extract_section(lines, "Data"; op=findlast), r"[ \t]+" => ',')
+    s = replace(extract_section(lines, "Data"; op=findlast), r"[ \t]+" => ',')
+    CSV.read(IOBuffer(s), DataFrame)
 end
 
 function get_certified_values(lines)
@@ -115,7 +116,7 @@ function Base.show(io::IO, t::TestCase)
             # "File Format" => t.format,
             "Data Description" => t.data_description,
             "Model" => t.model,
-            "Data (CSV)" => "$(sum(x -> x == '\n', t.data)) Lines"
+            "Data" => summary(t.data)
         ]
         v2 = split(string(v), '\n')
         printstyled(io, "    $k: \n")
