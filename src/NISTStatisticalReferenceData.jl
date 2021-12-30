@@ -300,49 +300,4 @@ function extract(::Type{UnivariateStats}, lines)
     return nothing
 end
 
-#-----------------------------------------------------------------------------# anova 
-datasets = [
-    (name="AtmWtAg", )
-]
-
-# #-----------------------------------------------------------------------------# sections
-# function sections(file::String)
-#     lines = filter(!isempty, readlines(file))
-#     out = OrderedDict{String,Any}()
-#     idxs = findall(x -> occursin(':', x), lines)
-#     push!(idxs, length(lines) + 1)
-#     for idx in 2:length(idxs)
-#         i, j = idxs[idx-1], idxs[idx] - 1
-#         key = replace(lines[i], r":.*" => "")
-#         key2 = haskey(out, key) ? "$key 2" : key
-#         out[key2] = lstrip(replace(join(lines[i:j], '\n'), "$key:" => ""))
-#     end
-#     nm = out["Dataset Name"]
-#     out["Dataset Name"] = nm[1:findfirst(' ', nm)-1]
-#     ff = out["File Format"]
-#     idx = findall(r"(?<=\().*(?=\))", ff)
-#     out["File Format"] = OrderedDict(
-#         "Certified Values Lines" => parse.(Int, split(ff[idx[1]])[[2,4]]),
-#         "Data Lines" => parse.(Int, split(ff[idx[2]])[[2,4]])
-#     )
-#     if out["Procedure"] == "Analysis of Variance"
-#         process_for_anova!(out)
-#     end
-#     out["Data 2"] = CSV.read(IOBuffer(out["Data 2"]), DataFrame, delim=' ', ignorerepeated=true)
-#     return out
-# end
-
-# for f in [:anova, :mcmc, :nonlinear, :regression, :univariate]
-#     @eval begin
-#         function $f(dataset::String)
-#             dir = string($(QuoteNode(f)))
-#             file = endswith(dataset, ".dat") ? dataset : "$dataset.dat"
-#             path = abspath(joinpath(@__DIR__, "..", "deps", dir, file))
-#             isfile(path) ? sections(path) : error("$path Not Found.")
-#         end
-#         $f(i::Int) = $f(readdir(joinpath(@__DIR__, "..", "deps", string($(QuoteNode(f)))))[i])
-#     end
-# end
-
-
 end
