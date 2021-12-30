@@ -87,6 +87,7 @@ function get_model(lines)
 end
 
 function get_data(lines)
+    # Convert from fixed width to CSV
     replace(extract_section(lines, "Data"; op=findlast), r"[ \t]+" => ',')
 end
 
@@ -205,6 +206,8 @@ function extract(::Type{Coefficients}, lines)
         end
         return Coefficients(β, βse)
     end
+    # TODO: MCMC
+    # TODO: Nonlinear
     return nothing
 end
 
@@ -287,7 +290,6 @@ function Base.show(io::IO, s::UnivariateStats)
 end
 function extract(::Type{UnivariateStats}, lines)
     i = findfirst(x -> occursin("Sample Mean", x), lines)
-    @info i
     if !isnothing(i)
         s1 = split(lines[i])
         j = s1[end] == "(exact)" ? 1 : 0
